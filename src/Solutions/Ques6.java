@@ -1,7 +1,8 @@
 package Solutions;
+
 import java.util.Scanner;
 public class Ques6 {
-    public static void main(String[] artgs){
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.printf("Enter String Value : ");
         String stringInput = scanner.nextLine();
@@ -11,3 +12,5 @@ public class Ques6 {
 
     }
 }
+
+
