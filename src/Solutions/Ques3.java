@@ -11,7 +11,6 @@ public class Ques3 {
             inputString = inputString.replace('i','*');
             inputString = inputString.replace('o','*');
             inputString = inputString.replace('u','*');
-
             System.out.println(inputString);
         }
 }
